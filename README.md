@@ -5,7 +5,7 @@ This MySQL project analyzes global company layoffs (2020–2023) across industri
 - Clean and prepare real-world layoff data for structured analysis
 - Use SQL (specifically MySQL) to uncover patterns about layoffs
 - Understand layoff behavior across different industries, countries, and company growth stages during 2020-2023
-- Strengthen SQL querying and data wrangling skills
+- Strengthen my SQL querying and data wrangling skills
 
 ## Data Cleaning Process
 <a href="https://github.com/yeniyen123/Layoffs-Analysis/blob/main/Layoffs_CleanedData.sql">Cleaned Dataset</a>
