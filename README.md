@@ -25,7 +25,7 @@ Key queries included:
 - Analysis by company funding stage
 - Top 5 companies with the highest layoffs per year
 
-##Key Insights
+## Key Insights
 Aside from confirming the years of layoff, here are other insights I discovered:
 - While tech was significantly impacted during years 2020-2023, other sectors like Consumer, Retail, and Transportation also reported major layoffs.
 - The United States recorded the highest number of layoffs.
