@@ -8,14 +8,14 @@ This MySQL project analyzes global company layoffs (2020–2023) across industri
 - Strengthen SQL querying and data wrangling skills
 
 ## Data Cleaning Process
-<a href="">Cleaned Dataset</a>
+<a href="https://github.com/yeniyen123/Layoffs-Analysis/blob/main/Layoffs_CleanedData.sql">Cleaned Dataset</a>
 - Removed Duplicates
 - Standardization (e.g., trimmed whitespace from text fields, normalized industry labels, cleaned up inconsistent country names, date formatting, etc.)
 - Missing Value Handling (e.g., filled in missing industry values by matching company-level data, removed rows lacking both layoff count and percentage (because I believe they are unnecessary))
 - Column Cleanup
 
 ## Exploratory Data Analysis
-<a href="">EDA</a>
+<a href="https://github.com/yeniyen123/Layoffs-Analysis/blob/main/Layoffs_ExploratoryDataAnalysis.sql">EDA</a>
 
 Key queries included: 
 - Maximum number and percentage of employees laid off
